@@ -1,0 +1,38 @@
+#specialPage{
+    box-shadow: 0 0 8px white;
+    border-radius: 10px;
+    width: 85%;
+    background-color: #f4f4f4;
+    height: 400px;
+    margin-left: 7.5%;
+}
+.lipstic1{
+    width: 200px;
+    height: 200px;
+    margin-left: 3%;
+}
+.lipstic2{
+    width: 200px;
+    height: 200px;
+  
+}
+.lipstic3{
+    width: 200px;
+    height: 200px;
+}
+.lipstic4{
+    width: 200px;
+    height: 200px;
+}
+#cosmeticProducts{
+    margin-top: 12%;
+}
+.head6{
+    text-align: start;
+    margin-left: 13%;
+}
+#head4{
+    margin-left: 13%;
+    font-weight: bold;
+    color: #626a71;
+}

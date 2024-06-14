@@ -1,0 +1,71 @@
+.stand-out {
+  font-size: 14px;
+  color: #949494;
+  text-align: center;
+  margin-top: 25%;
+}
+#standPage {
+  box-shadow: 0 0 8px white;
+  border-radius: 10px;
+  width: 85%;
+  background-color: #f4f4f4;
+  height: 480px;
+}
+.emptyDiv1 {
+  border-radius: 100%;
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+  margin-top: 23%;
+}
+.emptyDiv2 {
+  border-radius: 100%;
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+  margin: 92px 0 0 50px;
+}
+.emptyDiv3 {
+  border-radius: 100%;
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+  margin: 254px 0 0 -145px;
+}
+.head4{
+   
+    
+}
+.span1{
+  height: 20px;
+  font-size: 12px;
+  padding: 10px 5px;
+  border-radius: 50%;
+  width: 20px;
+  background-color: #505d61;
+  color: white;
+  margin-left: -57px;
+}
+.span2{
+  height: 20px;
+  font-size: 12px;
+  padding: 10px 8px;
+  border-radius: 50%;
+  width: 20px;
+  background-color: #505d61;
+  color: white;
+  margin-left: -57px;
+}
+.span3{
+  height: 20px;
+  font-size: 12px;
+  padding: 14px 4px;
+  border-radius: 50%;
+  width: 20px;
+  background-color: #505d61;
+  color: white;
+  margin-left: -57px;
+}
+#balloon{
+  
+}

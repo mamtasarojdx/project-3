@@ -1,0 +1,19 @@
+.About{
+  margin-left: 10%;
+}
+.lastContent{
+  margin-left: 45%;
+}
+.FirstImg{
+  width: 10%;
+    margin-left: 3%;
+}
+.NavBar {
+  background: transparent;
+  position: fixed;
+  width: 100%;
+  z-index: 99;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: white;
+}

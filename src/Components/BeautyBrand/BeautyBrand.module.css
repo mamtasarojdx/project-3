@@ -1,0 +1,77 @@
+.BeautyBrandPage {
+  box-shadow: 0 0 8px white;
+  border-radius: 10px;
+
+  padding-top: 4px;
+  margin-bottom: 50px;
+
+  background-color: #f4f4f4;
+}
+
+.head1 {
+  color: #949494;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.img1 {
+  width: 20%;
+}
+
+.img2 {
+  width: 70%;
+}
+.img3 {
+  width: 27%;
+}
+.img4 {
+  width: 65%;
+}
+.img5 {
+  width: 100%;
+}
+.img6 {
+  width: 43%;
+}
+.img7 {
+  width: 60%;
+}
+.img8 {
+  width: 15%;
+}
+.img9 {
+  width: 60%;
+}
+.img10 {
+  width: 50%;
+}
+.img11 {
+  width: 43%;
+}
+.img12 {
+  width: 45%;
+}
+.img13 {
+  width: 18%;
+}
+.img14 {
+  width: 30%;
+}
+.img15 {
+  width: 45%;
+}
+.BrandImages {
+  box-shadow: 0 0 8px gray;
+  padding: 10px 0;
+  text-align: center;
+  /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.BrandImages:hover {
+  box-shadow: 0px 0px 15px rgb(70, 70, 70);
+  padding: 10px 0;
+  text-align: center;
+  border-radius: 8px;
+}
