@@ -8,10 +8,8 @@ function Home() {
         <div className="container-fluid bg-light">
           <div className="row bg-light">
             <div className="col-lg-12">
-           
-
-<div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-<div className="carousel-inner">
+              <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+                <div className="carousel-inner">
                   <div className="carousel-item active">
                     <div className="slide-img">
                       <img src={"/Images/banner02.png"} className="lipsticImg" alt="Slide 1" />
@@ -28,7 +26,7 @@ function Home() {
                     </div>
                   </div>
                 </div>
-</div>
+              </div>
             </div>
           </div>
         </div>

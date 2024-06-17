@@ -4,12 +4,12 @@ import Style from "../BeautyBrand/BeautyBrand.module.css";
 function BeautyBrand() {
   return (
     <>
-      <section  className={`${Style.BeautyBrandPage}`}>
+      <section className={`${Style.BeautyBrandPage}`}>
         <h1 className={` text-uppercase ${Style.head1}`}>your no one source for unique beauty brands</h1>
         <div className={` ${Style.hrLine}`}></div>
         <div className="container">
           <div className="row">
-              {/* -----------1st row---------- */}
+            {/* -----------1st row---------- */}
             <div className="col-lg-4 mt-3 mb-5">
               <div className={`${Style.BrandImages}`}>
                 <img src={"/Images/Diptyque-(1)-logo.png"} className={`  ${Style.img1}`} />
@@ -29,7 +29,7 @@ function BeautyBrand() {
             </div>{" "}
             {/* -----------2nd row---------- */}
             <div className="col-lg-4 mt-3">
-            <div className={`${Style.BrandImages}`}>
+              <div className={`${Style.BrandImages}`}>
                 <img src={"/Images/Byredo logo.jpg"} className={`  ${Style.img6}`} />
               </div>
               <div className={`mt-3 ${Style.BrandImages}`}>
@@ -47,7 +47,7 @@ function BeautyBrand() {
             </div>{" "}
             {/* --------------3rd row------------ */}
             <div className="col-lg-4 ">
-            <div className={`mt-3 ${Style.BrandImages}`}>
+              <div className={`mt-3 ${Style.BrandImages}`}>
                 <img src={"/Images/Maison Margiela logo.png"} className={`${Style.img11}`} />
               </div>
               <div className={`mt-3 ${Style.BrandImages}`}>
@@ -63,7 +63,6 @@ function BeautyBrand() {
                 <img src={"/Images/Eve-Lom-(1)-logo.png"} className={`${Style.img15}`} />
               </div>
             </div>{" "}
-          
           </div>
         </div>
       </section>

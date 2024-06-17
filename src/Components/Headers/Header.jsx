@@ -6,9 +6,9 @@ function Header() {
   return (
     <>
       <section>
-        <nav  className={`navbar navbar-expand-lg navbar-light ${Style.NavBar}`}>
+        <nav className={`navbar navbar-expand-lg navbar-light ${Style.NavBar}`}>
           <div class="container-fluid">
-          <img src={"/Images/btif-sale-logo.png"} className={`${Style.FirstImg}`} alt="..." />
+            <img src={"/Images/btif-sale-logo.png"} className={`${Style.FirstImg}`} alt="..." />
             <button
               class="navbar-toggler"
               type="button"
@@ -30,7 +30,7 @@ function Header() {
               </span>
 
               <span className="mx-2" href="#">
-              Wholesale Inquaries
+                Wholesale Inquaries
               </span>
 
               <div className={`d-flex ${Style.lastContent}`}>

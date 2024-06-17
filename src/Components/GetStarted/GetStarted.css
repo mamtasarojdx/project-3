@@ -17,7 +17,7 @@
   z-index: 2;
   width: 92%;
   padding: 20px 0px;
-  border-radius: 10px; 
+  border-radius: 10px;
 }
 
 .back-shadow::after {
@@ -30,7 +30,7 @@
   left: 0;
   pointer-events: none;
   background-color: rgba(0, 0, 0, 0.45);
-  border-radius: 10px; 
+  border-radius: 10px;
 }
 
 .head-text {
@@ -57,7 +57,7 @@
   border-radius: 25px;
   border: 1px solid white;
   margin: 17px 0 0 482px;
- 
+
   transition: all 1s;
   &:after,
   &:before {

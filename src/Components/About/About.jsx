@@ -2,7 +2,6 @@ import React from "react";
 import "./About.css";
 
 function About() {
-  
   return (
     <>
       <section>
@@ -10,26 +9,27 @@ function About() {
           <div className="row">
             <div className="col-lg-6 mt-5 text-center mb-3">
               <div className="text-content">
-              <h5 className="head5">About Us</h5>
-              <h1 className="head1">The Beauty Solution You Want</h1>
-              <div className="missionContent">
-                <img src={"/Images/mission01.png"} className="missionImg" />
-                <h5 className="text-uppercase" id="headMission">
-                  our mission
-                </h5>
-                <h6 className="head6Text">
-                  To provide a curated collection of the best niche beauty brands and and top indpendent retailers,while providing unmatched service with high
-                  personal touch
-                </h6>
+                <h5 className="head5">About Us</h5>
+                <h1 className="head1">The Beauty Solution You Want</h1>
+                <div className="missionContent">
+                  <img src={"/Images/mission01.png"} className="missionImg" />
+                  <h5 className="text-uppercase" id="headMission">
+                    our mission
+                  </h5>
+                  <h6 className="head6Text">
+                    To provide a curated collection of the best niche beauty brands and and top indpendent retailers,while providing unmatched service with high
+                    personal touch
+                  </h6>
+                </div>
+                <div className="missionContent">
+                  <img src={"/Images/touchService02.png"} className="missionImg" />
+                  <h5 className="text-uppercase" id="headMission">
+                    high touch service
+                  </h5>
+                  <h6 className="head6Text">Superior and consistent and personal service, education and contact that anticipates and understands needs.</h6>
+                </div>
               </div>
-              <div className="missionContent">
-                <img src={"/Images/touchService02.png"} className="missionImg" />
-                <h5 className="text-uppercase" id="headMission">
-                  high touch service
-                </h5>
-                <h6 className="head6Text">Superior and consistent and personal service, education and contact that anticipates and understands needs.</h6>
-              </div>
-            </div></div>
+            </div>
 
             <div className="col-lg-6 mt-5">
               <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
