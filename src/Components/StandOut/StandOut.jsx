@@ -8,21 +8,21 @@ function StandOut() {
         <div className="container mt-5 mb-5" id="standPage">
           <div className="row">
             <div className="col-lg-6 text-center">
-              <h6 className="stand-out ">We Stand Out</h6>
-              <h4 className="head4">
+              <h6 className="stand-out text-start">We Stand Out</h6>
+              <h4 className="head4 text-start">
                 Our passion for beauty is whats drives us
                 <div>to provide top-quality products and </div>
                 <div> exceptional service to our partners!</div>{" "}
               </h4>
             </div>
-            <div className="col-lg-6 d-flex text-center" id="balloon">
-              <div className="emptyDiv1">
+            <div className="col-lg-6 d-flex text-center hover-effect" id="balloon">
+              <div className="div-hover1">Company Established
                 <span className="span1">2009</span>
               </div>
-              <div className="emptyDiv2">
+              <div className="div-hover2">Beauty Brand
               <span className="span2">12+</span>
               </div>
-              <div className="emptyDiv3">
+              <div className="div-hover3">Satisfied retailer
               <span className="span3">2500+</span>
               </div>
             </div>

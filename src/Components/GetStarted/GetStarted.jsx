@@ -4,19 +4,19 @@ import "./GetStarted.css";
 function GetStarted() {
   return (
     <>
-      <section style={{ backgroundImage: 'url("call-action.png")' }} className="callImage">
-        <div className="container">
+      <section>
+        <div className="container" id="background-image">
           <div className="row">
-            <div className="col-12">
-              <div className="d-flex" id="letsGet">
-                <div className="col-lg-6" id="letsGet2">
-                  {" "}
-                  <h4 className="h5Text">Let's Get Started</h4>
-                  <h6 className="text-white">For Wholesale inquiries/please click to inquire</h6>
+            <div className="col-lg-12">
+              <div>
+                <img src={"/Images/call-action.png"} alt="" className="image2" />
+              </div>
+              <div className="back-shadow">
+                <div className="head-text">
+                  <h4 className="LetGet">Let's Get Started</h4>
+                  <h6 className="LetGet-2">For wholesale inquiries,please click to inquire</h6>
                 </div>
-                <div className="col-lg-6">
-                  <button className="button2">Inquire</button>
-                </div>
+                <button className="button-inquire">Inquire</button>
               </div>
             </div>
           </div>

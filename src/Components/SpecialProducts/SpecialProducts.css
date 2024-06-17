@@ -3,29 +3,36 @@
     border-radius: 10px;
     width: 85%;
     background-color: #f4f4f4;
-    height: 400px;
+    height: 355px;
     margin-left: 7.5%;
 }
 .lipstic1{
     width: 200px;
     height: 200px;
     margin-left: 3%;
+    position: relative;
 }
 .lipstic2{
     width: 200px;
     height: 200px;
-  
+    position: relative;
 }
 .lipstic3{
     width: 200px;
     height: 200px;
+    position: relative;
 }
 .lipstic4{
     width: 200px;
     height: 200px;
+    position: relative;
 }
 #cosmeticProducts{
-    margin-top: 12%;
+    margin-top: 4%;
+}
+#cosmeticProducts2{
+    margin-top: 6%;
+    position: relative;
 }
 .head6{
     text-align: start;
@@ -34,5 +41,30 @@
 #head4{
     margin-left: 13%;
     font-weight: bold;
-    color: #626a71;
+    color: #434c4f;
+    font-size: 35px;
+}
+.color-text{
+    position: absolute;
+    top: 200px;
+    left: 112px;
+    font-weight: bold;
+}
+.Fragrance{
+    position: absolute;
+    top: 200px;
+    left: 296px;
+    font-weight: bold;
+}
+.Haircare{
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    font-weight: bold;
+}
+.Skincare{
+    position: absolute;
+    top: 200px;
+    left: 703px;
+    font-weight: bold;
 }

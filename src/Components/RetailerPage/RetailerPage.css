@@ -1,0 +1,123 @@
+.lastText {
+  background-color: #e3e3e3;
+
+  text-align: center;
+}
+.containerPart {
+  position: relative;
+}
+
+.head4Text {
+  text-transform: uppercase;
+  color: #6b6b6b;
+  font-weight: bold;
+}
+.hrLine {
+  width: 93px;
+  margin: 0 0 0 362px;
+  margin: 5px 0 5px 390px;
+  color: black;
+  padding: 2px 0;
+
+  background-color: black;
+
+  border: none;
+}
+.head5Text {
+  font-weight: 600;
+}
+.head6Text {
+  font-size: 14px;
+  color: #9a9fa7;
+}
+.TextPart {
+  position: relative;
+}
+.quote {
+  position: absolute;
+  top: 75px;
+  left: 9px;
+  color: #6b6e73;
+}
+.sharronText {
+  font-weight: 600;
+}
+.OwnerText {
+  color: #9a9fa7;
+}
+.right-dark {
+  position: absolute;
+  top: 142px;
+  font-size: 24px;
+  right: 149px;
+}
+.left-dark {
+  position: absolute;
+  top: 142px;
+  left: 158px;
+  font-size: 24px;
+}
+.leftIcon {
+  color: black !important;
+}
+
+.rightIcon {
+  color: black !important;
+}
+
+.carouselControlPrev {
+  z-index: 1;
+  color: black !important;
+  position: absolute;
+  top: 135px;
+  right: 140px;
+  background-color: white;
+  height: 40px;
+  width: 42px;
+  border: 2px solid white;
+  border-radius: 50%;
+  box-shadow: 0 0 4px gray;
+  padding: 4px 2px 0 0;
+  opacity: 0.4;
+  transition: opacity 0.15s ease;
+}
+
+.carouselControlNext {
+  z-index: 1;
+  opacity: 0.4;
+  color: black !important;
+  position: absolute;
+  top: 135px;
+  left: 150px;
+  background-color: white;
+  height: 40px;
+  width: 42px;
+  border: 2px solid white;
+  border-radius: 50%;
+  box-shadow: 0 0 4px gray;
+  padding: 4px 2px 0 0;
+  transition: opacity 0.15s ease;
+}
+
+.carouselControlPrevIcon,
+.carouselControlNextIcon {
+  color: black !important;
+}
+
+.carouselControlPrevIcon::after,
+.carouselControlNextIcon::after {
+  content: "";
+  display: inline-block;
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  color: black !important;
+}
+
+.carouselControlPrevIcon::after,
+.carouselControlNextIcon::after {
+  content: "";
+  display: inline-block;
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  color: black !important;
+}
