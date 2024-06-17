@@ -27,6 +27,7 @@
   border-radius: 100%;
   height: 140px;
   width: 140px;
+ 
   border: 2px solid black;
   margin-top: 23%;
   transition: transform 0.2s ease;
@@ -125,14 +126,17 @@
 
 .hover-effect:hover .div-hover1 {
   animation: circularMotion1 12s linear infinite;
+  box-shadow: 0 0 8px gray;
 }
 
 .hover-effect:hover .div-hover2 {
   animation: circularMotion2 12s linear infinite;
+  box-shadow: 0 0 8px gray;
 }
 
 .hover-effect:hover .div-hover3 {
   animation: circularMotion3 12s linear infinite;
+  box-shadow: 0 0 8px gray;
 }
 @keyframes circularMotion1 {
   0% {
