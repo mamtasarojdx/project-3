@@ -9,6 +9,7 @@ function About() {
         <div className="container" id="aboutPage">
           <div className="row">
             <div className="col-lg-6 mt-5 text-center mb-3">
+              <div className="text-content">
               <h5 className="head5">About Us</h5>
               <h1 className="head1">The Beauty Solution You Want</h1>
               <div className="missionContent">
@@ -28,7 +29,7 @@ function About() {
                 </h5>
                 <h6 className="head6Text">Superior and consistent and personal service, education and contact that anticipates and understands needs.</h6>
               </div>
-            </div>
+            </div></div>
 
             <div className="col-lg-6 mt-5">
               <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">

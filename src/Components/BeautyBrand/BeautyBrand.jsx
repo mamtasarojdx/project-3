@@ -6,7 +6,7 @@ function BeautyBrand() {
     <>
       <section  className={`${Style.BeautyBrandPage}`}>
         <h1 className={` text-uppercase ${Style.head1}`}>your no one source for unique beauty brands</h1>
-        <hr className={` ${Style.hrLine}`} />
+        <div className={` ${Style.hrLine}`}></div>
         <div className="container">
           <div className="row">
               {/* -----------1st row---------- */}

@@ -25,7 +25,7 @@ function RetailerPage() {
                       <div className="slide-img">
                         <div className="TextPart">
                           <h3 className="head4Text"> our happy reatiler</h3>
-                          <hr className="hrLine" />
+                          <div className="hrLine"></div>
                           <h5 className="head5Text">See What They'r Saying</h5>
                           <h6 className="mt-4 head6Text">
                             Legends of Runeterra is a 2020 digital collectible card game developed and published by Riot Games. Inspired by the physical
@@ -44,7 +44,7 @@ function RetailerPage() {
                       <div className="slide-img">
                         <div className="TextPart">
                           <h3 className="head4Text">our happy reatiler</h3>
-                          <hr className="hrLine" />
+                          <div className="hrLine"></div>
                           <h5 className="head5Text">See What They'r Saying</h5>
                           <h6 className="mt-4 head6Text">
                             Lorem ipsum, sunt in culpa, coming soon, under construction, asdf, qwert, etaoin shrdlu, now is the time for all good men, the quick
@@ -62,7 +62,7 @@ function RetailerPage() {
                       <div className="slide-img">
                         <div className="TextPart">
                           <h3 className="head4Text">our happy reatiler</h3>
-                          <hr className="hrLine" />
+                          <div className="hrLine"></div>
                           <h5 className="head5Text">See What They'r Saying</h5>
                           <h6 className="mt-4 head6Text">
                             In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a

@@ -1,6 +1,6 @@
 .lastText {
   background-color: #e3e3e3;
-
+  padding: 8px 0;
   text-align: center;
 }
 .containerPart {
@@ -11,51 +11,54 @@
   text-transform: uppercase;
   color: #6b6b6b;
   font-weight: bold;
+  font-size: 34px;
 }
 .hrLine {
   width: 93px;
-  margin: 0 0 0 362px;
+
   margin: 5px 0 5px 390px;
   color: black;
-  padding: 2px 0;
+  padding: 3px 0;
 
-  background-color: black;
+  background-color: #6b6b6b;
 
   border: none;
 }
 .head5Text {
-  font-weight: 600;
+  font-weight: 700;
 }
 .head6Text {
   font-size: 14px;
-  color: #9a9fa7;
+  color: #aeb3bc;
 }
 .TextPart {
   position: relative;
 }
 .quote {
   position: absolute;
-  top: 75px;
+  top: 85px;
   left: 9px;
   color: #6b6e73;
 }
 .sharronText {
-  font-weight: 600;
+  font-weight: 700;
 }
 .OwnerText {
-  color: #9a9fa7;
+  color: #aeb3bc;
 }
 .right-dark {
   position: absolute;
   top: 142px;
   font-size: 24px;
   right: 149px;
+  color: black;
 }
 .left-dark {
   position: absolute;
   top: 142px;
   left: 158px;
   font-size: 24px;
+  color: black;
 }
 .leftIcon {
   color: black !important;

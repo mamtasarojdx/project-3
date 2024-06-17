@@ -64,9 +64,6 @@
   box-shadow: 0 0 8px gray;
   padding: 10px 0;
   text-align: center;
-  /* display: flex;
-    justify-content: center;
-    align-items: center; */
 }
 
 .BrandImages:hover {
@@ -79,6 +76,6 @@
   width: 93px;
   margin: 0 0 0 362px;
   margin: 5px 0 5px 653px;
-  color: #6b6b6b;
+  background-color: #6b6b6b;
   padding: 3px 0;
 }
