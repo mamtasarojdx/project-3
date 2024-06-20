@@ -4,6 +4,7 @@ import GetStarted from "./Components/GetStarted/GetStarted";
 import Header from "./Components/Headers/Header";
 import Home from "./Components/Home/Home";
 import RetailerPage from "./Components/RetailerPage/RetailerPage";
+// import Scam from "./Components/Scam.jsx/Scam";
 import SpecialProducts from "./Components/SpecialProducts/SpecialProducts";
 import StandOut from "./Components/StandOut/StandOut";
 
@@ -17,7 +18,8 @@ function App() {
       <StandOut />
       <SpecialProducts />
       <GetStarted />
-   <RetailerPage/>
+      <RetailerPage />
+    {/* <Scam/> */}
     </div>
   );
 }
