@@ -20,11 +20,9 @@ function GetStarted() {
                 <div>
                   <div>
                     <div className="card main__card">
-                  
                       <div className="text-center inquire">
-                      <span className="card__line card__line_top"></span>
+                        <span className="card__line card__line_top"></span>
                         Inquire
-                      
                         <span className="card__line card__line_bottom"></span>
                       </div>
                     </div>

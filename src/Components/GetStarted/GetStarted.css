@@ -69,7 +69,7 @@
 }
 .card {
   --anim-duration: 5s;
-  /* --line-thickness: 0.2em; */
+  --line-thickness: 0.2em;
   color: var(--cr-white);
   background-color: var(--cr-blue-2);
   position: relative;

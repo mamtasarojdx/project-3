@@ -17,9 +17,7 @@
   background-size: cover;
   background-position: center;
 }
-/* .slide-img {
-  width: 100%;
-} */
+
 .carouselIndicators [data-bs-target].active {
   display: none;
 }
